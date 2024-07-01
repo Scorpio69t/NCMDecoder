@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+    </qresource>
+    <qresource prefix="/skin">
+        <file>skin/black.css</file>
+        <file>skin/blue.css</file>
+        <file>skin/darkblack.css</file>
+        <file>skin/darkblue.css</file>
+        <file>skin/black/add_bottom.png</file>
+        <file>skin/black/add_left.png</file>
+        <file>skin/black/add_right.png</file>
+        <file>skin/black/add_top.png</file>
+        <file>skin/black/branch_close.png</file>
+        <file>skin/black/branch_open.png</file>
+        <file>skin/black/calendar_nextmonth.png</file>
+        <file>skin/black/calendar_prevmonth.png</file>
+        <file>skin/black/checkbox_checked.png</file>
+        <file>skin/black/checkbox_checked_disable.png</file>
+        <file>skin/black/checkbox_parcial.png</file>
+        <file>skin/black/checkbox_parcial_disable.png</file>
+        <file>skin/black/checkbox_unchecked.png</file>
+        <file>skin/black/checkbox_unchecked_disable.png</file>
+        <file>skin/black/radiobutton_checked.png</file>
+        <file>skin/black/radiobutton_checked_disable.png</file>
+        <file>skin/black/radiobutton_unchecked.png</file>
+        <file>skin/black/radiobutton_unchecked_disable.png</file>
+        <file>skin/darkblue/add_bottom.png</file>
+        <file>skin/darkblue/add_left.png</file>
+        <file>skin/darkblue/add_right.png</file>
+        <file>skin/darkblue/add_top.png</file>
+        <file>skin/darkblue/branch_close.png</file>
+        <file>skin/darkblue/branch_open.png</file>
+        <file>skin/darkblue/calendar_nextmonth.png</file>
+        <file>skin/darkblue/calendar_prevmonth.png</file>
+        <file>skin/darkblue/checkbox_checked.png</file>
+        <file>skin/darkblue/checkbox_checked_disable.png</file>
+        <file>skin/darkblue/checkbox_parcial.png</file>
+        <file>skin/darkblue/checkbox_parcial_disable.png</file>
+        <file>skin/darkblue/checkbox_unchecked.png</file>
+        <file>skin/darkblue/checkbox_unchecked_disable.png</file>
+        <file>skin/darkblue/radiobutton_checked.png</file>
+        <file>skin/darkblue/radiobutton_checked_disable.png</file>
+        <file>skin/darkblue/radiobutton_unchecked.png</file>
+        <file>skin/darkblue/radiobutton_unchecked_disable.png</file>
+    </qresource>
+</RCC>
